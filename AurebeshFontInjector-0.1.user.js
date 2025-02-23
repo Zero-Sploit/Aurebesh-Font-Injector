@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Aurebesh Font Injector
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.1
 // @description  Inject the Aurebesh font into any website with fallback support
-// @author       You
+// @author       ZeroSploit
 // @match        http://*/*
 // @match        https://*/*
 // @grant        none
