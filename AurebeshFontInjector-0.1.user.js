@@ -13,7 +13,7 @@
     'use strict';
 
     // URL to the raw Aurebesh.ttf file hosted on GitHub
-    const fontUrl = 'https://raw.githubusercontent.com/Zero-Sploit/Aurebesh-Font/main/Aurebesh.ttf';
+    const fontUrl = 'https://raw.githubusercontent.com/Zero-Sploit/Aurebesh-Font-Injector/main/Aurebesh.ttf';
 
     // Function to inject the font
     function injectAurebeshFont() {
