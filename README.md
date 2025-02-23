@@ -20,7 +20,7 @@ A Tampermonkey userscript that injects the Star Wars-inspired Aurebesh font into
    - [Other browsers](https://www.tampermonkey.net/)
 
 2. **Add the Script**:
-   - Click [here]([https://raw.githubusercontent.com/Zero-Sploit/Aurebesh-Font-Injector/main/AurebeshFontInjector.user.js]) to install the script directly in Tampermonkey, or
+   - Click [here](https://raw.githubusercontent.com/Zero-Sploit/Aurebesh-Font-Injector/main/AurebeshFontInjector.user.js) to install the script directly in Tampermonkey, or
    - Copy the script from `AurebeshFontInjector.user.js` and paste it into a new Tampermonkey script.
 
 3. **Enable the Script**:
