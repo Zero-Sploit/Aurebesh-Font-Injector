@@ -1,6 +1,6 @@
 # Aurebesh Font Injector
 
-![Version](https://img.shields.io/badge/version-0.2-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-0.1-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 A Tampermonkey userscript that injects the Star Wars-inspired Aurebesh font into any website, transforming text into the iconic galactic script.
 
